@@ -1,1 +1,1 @@
-# Test_Ble_Gateway
+# ble-gateway-server
